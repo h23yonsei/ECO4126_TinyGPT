@@ -3,7 +3,6 @@ The Wonderful Wizard of Oz
 Chapter I
 The Cyclone
 
-
 Dorothy lived in the midst of the great Kansas prairies, with Uncle
 Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their
 house was small, for the lumber to build it had to be carried by wagon
@@ -118,12 +117,8 @@ followed and lay down beside her.
 In spite of the swaying of the house and the wailing of the wind,
 Dorothy soon closed her eyes and fell fast asleep.
 
-
-
-
 Chapter II
 The Council with the Munchkins
-
 
 She was awakened by a shock, so sudden and severe that if Dorothy had
 not been lying on the soft bed she might have been hurt. As it was, the
@@ -359,12 +354,8 @@ afraid even to growl while she stood by.
 But Dorothy, knowing her to be a witch, had expected her to disappear
 in just that way, and was not surprised in the least.
 
-
-
-
 Chapter III
 How Dorothy Saved the Scarecrow
-
 
 When Dorothy was left alone she began to feel hungry. So she went to
 the cupboard and cut herself some bread, which she spread with butter.
@@ -594,12 +585,8 @@ get tired. I’ll tell you a secret,” he continued, as he walked along.
 
 “No,” answered the Scarecrow; “it’s a lighted match.”
 
-
-
-
 Chapter IV
 The Road Through the Forest
-
 
 After a few hours the road began to be rough, and the walking grew so
 difficult that the Scarecrow often stumbled over the yellow bricks,
@@ -763,12 +750,8 @@ corner. She lay down at once, and with Toto beside her soon fell into a
 sound sleep. The Scarecrow, who was never tired, stood up in another
 corner and waited patiently until morning came.
 
-
-
-
 Chapter V
 The Rescue of the Tin Woodman
-
 
 When Dorothy awoke the sun was shining through the trees and Toto had
 long been out chasing birds around him and squirrels. She sat up and
@@ -991,12 +974,8 @@ meal for herself and Toto would empty the basket. To be sure, neither
 the Woodman nor the Scarecrow ever ate anything, but she was not made
 of tin nor straw, and could not live unless she was fed.
 
-
-
-
 Chapter VI
 The Cowardly Lion
-
 
 All this time Dorothy and her companions had been walking through the
 thick woods. The road was still paved with yellow brick, but these were
@@ -1177,12 +1156,8 @@ he took great care never to be cruel or unkind to anything.
 need never do wrong; but I have no heart, and so I must be very
 careful. When Oz gives me a heart of course I needn’t mind so much.”
 
-
-
-
 Chapter VII
 The Journey to the Great Oz
-
 
 They were obliged to camp out that night under a large tree in the
 forest, for there were no houses near. The tree made a good, thick
@@ -1376,12 +1351,8 @@ So they found a cozy place under the trees where they slept well until
 the morning; and Dorothy dreamed of the Emerald City, and of the good
 Wizard Oz, who would soon send her back to her own home again.
 
-
-
-
 Chapter VIII
 The Deadly Poppy Field
-
 
 Our little party of travelers awakened the next morning refreshed and
 full of hope, and Dorothy breakfasted like a princess off peaches and
@@ -1603,12 +1574,8 @@ enough from the poppy field to prevent her breathing any more of the
 poison of the flowers, and here they laid her gently on the soft grass
 and waited for the fresh breeze to waken her.
 
-
-
-
 Chapter IX
 The Queen of the Field Mice
-
 
 “We cannot be far from the road of yellow brick, now,” remarked the
 Scarecrow, as he stood beside the girl, “for we have come nearly as far
@@ -1772,12 +1739,8 @@ After this they sat down beside the Lion until he should awaken; and
 the Scarecrow brought Dorothy some fruit from a tree near by, which she
 ate for her dinner.
 
-
-
-
 Chapter X
 The Guardian of the Gate
-
 
 It was some time before the Cowardly Lion awakened, for he had lain
 among the poppies a long while, breathing in their deadly fragrance;
@@ -2002,12 +1965,8 @@ was ready to show them to the Palace. Taking a big golden key from a
 peg on the wall, he opened another gate, and they all followed him
 through the portal into the streets of the Emerald City.
 
-
-
-
 Chapter XI
 The Wonderful City of Oz
-
 
 Even with eyes protected by the green spectacles, Dorothy and her
 friends were at first dazzled by the brilliancy of the wonderful City.
@@ -2424,12 +2383,8 @@ they were awakened by the crowing of a green cock that lived in the
 back yard of the Palace, and the cackling of a hen that had laid a
 green egg.
 
-
-
-
 Chapter XII
 The Search for the Wicked Witch
-
 
 The soldier with the green whiskers led them through the streets of the
 Emerald City until they reached the room where the Guardian of the
@@ -2825,12 +2780,8 @@ the courtyard to tell the Lion that the Wicked Witch of the West had
 come to an end, and that they were no longer prisoners in a strange
 land.
 
-
-
-
 Chapter XIII
 The Rescue
-
 
 The Cowardly Lion was much pleased to hear that the Wicked Witch had
 been melted by a bucket of water, and Dorothy at once unlocked the gate
@@ -2962,12 +2913,8 @@ Then, being prepared for the journey, they all started for the Emerald
 City; and the Winkies gave them three cheers and many good wishes to
 carry with them.
 
-
-
-
 Chapter XIV
 The Winged Monkeys
-
 
 You will remember there was no road—not even a pathway—between the
 castle of the Wicked Witch and the Emerald City. When the four
@@ -3175,12 +3122,8 @@ followed by all his band.
 “Yes, and a quick way out of our troubles,” replied the Lion. “How
 lucky it was you brought away that wonderful Cap!”
 
-
-
-
 Chapter XV
 The Discovery of Oz, the Terrible
-
 
 The four travelers walked up to the great gate of Emerald City and rang
 the bell. After ringing several times, it was opened by the same
@@ -3515,12 +3458,8 @@ their rooms in high spirits. Even Dorothy had hope that “The Great and
 Terrible Humbug,” as she called him, would find a way to send her back
 to Kansas, and if he did she was willing to forgive him everything.
 
-
-
-
 Chapter XVI
 The Magic Art of the Great Humbug
-
 
 Next morning the Scarecrow said to his friends:
 
@@ -3652,12 +3591,8 @@ they imagined I could do anything. But it will take more than
 imagination to carry Dorothy back to Kansas, and I’m sure I don’t know
 how it can be done.”
 
-
-
-
 Chapter XVII
 How the Balloon Was Launched
-
 
 For three days Dorothy heard nothing from Oz. These were sad days for
 the little girl, although her friends were all quite happy and
@@ -3790,12 +3725,8 @@ Scarecrow to rule over us.”
 Still, for many days they grieved over the loss of the Wonderful
 Wizard, and would not be comforted.
 
-
-
-
 Chapter XVIII
 Away to the South
-
 
 Dorothy wept bitterly at the passing of her hope to get home to Kansas
 again; but when she thought it all over she was glad she had not gone
@@ -3948,12 +3879,8 @@ I should like to start as soon as possible.”
 “We shall go tomorrow morning,” returned the Scarecrow. “So now let us
 all get ready, for it will be a long journey.”
 
-
-
-
 Chapter XIX
 Attacked by the Fighting Trees
-
 
 The next morning Dorothy kissed the pretty green girl good-bye, and
 they all shook hands with the soldier with the green whiskers, who had
@@ -4070,12 +3997,8 @@ smooth, like the surface of a dish, and higher than their heads.
 “I will make a ladder,” said the Tin Woodman, “for we certainly must
 climb over the wall.”
 
-
-
-
 Chapter XX
 The Dainty China Country
-
 
 While the Woodman was making a ladder from wood which he found in the
 forest Dorothy lay down and slept, for she was tired by the long walk.
@@ -4265,12 +4188,8 @@ church. They are all so brittle!”
 straw and cannot be easily damaged. There are worse things in the world
 than being a Scarecrow.”
 
-
-
-
 Chapter XXI
 The Lion Becomes the King of Beasts
-
 
 After climbing down from the china wall the travelers found themselves
 in a disagreeable country, full of bogs and marshes and covered with
@@ -4375,12 +4294,8 @@ Then the beasts bowed down to the Lion as their King, and he promised
 to come back and rule over them as soon as Dorothy was safely on her
 way to Kansas.
 
-
-
-
 Chapter XXII
 The Country of the Quadlings
-
 
 The four travelers passed through the rest of the forest in safety, and
 when they came out from its gloom saw before them a steep hill, covered
@@ -4496,12 +4411,8 @@ They told who they were, and the girl soldier went into the Castle.
 After a few moments she came back to say that Dorothy and the others
 were to be admitted at once.
 
-
-
-
 Chapter XXIII
 Glinda The Good Witch Grants Dorothy’s Wish
-
 
 Before they went to see Glinda, however, they were taken to a room of
 the Castle, where Dorothy washed her face and combed her hair, and the
@@ -4658,12 +4569,8 @@ Dorothy stood up and found she was in her stocking-feet. For the Silver
 Shoes had fallen off in her flight through the air, and were lost
 forever in the desert.
 
-
-
-
 Chapter XXIV
 Home Again
-
 
 Aunt Em had just come out of the house to water the cabbages when she
 looked up and saw Dorothy running toward her.
